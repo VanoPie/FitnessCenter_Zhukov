@@ -1,0 +1,17 @@
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/FitnessCenter_Zhukov.csproj.AssemblyReference.cache
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/Avalonia/resources
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/FitnessCenter_Zhukov.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/FitnessCenter_Zhukov.AssemblyInfoInputs.cache
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/FitnessCenter_Zhukov.AssemblyInfo.cs
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/FitnessCenter_Zhukov.csproj.CoreCompileInputs.cache
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/bin/Debug/net8.0/FitnessCenter_Zhukov
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/bin/Debug/net8.0/FitnessCenter_Zhukov.dll
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/bin/Debug/net8.0/FitnessCenter_Zhukov.pdb
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/Avalonia/references
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/Avalonia/original.dll
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/Avalonia/original.pdb
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/Avalonia/original.ref.dll
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/refint/FitnessCenter_Zhukov.dll
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/FitnessCenter_Zhukov.dll
+/home/user/Desktops/Desktop1/FitnessCenter_Zhukov/FitnessCenter_Zhukov/obj/Debug/net8.0/FitnessCenter_Zhukov.pdb

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="FitnessCenter_Zhukov/App.axaml" value="FitnessCenter_Zhukov/FitnessCenter_Zhukov.csproj" />
+        <entry key="FitnessCenter_Zhukov/CRUDForm.axaml" value="FitnessCenter_Zhukov/FitnessCenter_Zhukov.csproj" />
+        <entry key="FitnessCenter_Zhukov/ClientsForm.axaml" value="FitnessCenter_Zhukov/FitnessCenter_Zhukov.csproj" />
+        <entry key="FitnessCenter_Zhukov/MainWindow.axaml" value="FitnessCenter_Zhukov/FitnessCenter_Zhukov.csproj" />
+        <entry key="FitnessCenter_Zhukov/RegisterForm.axaml" value="FitnessCenter_Zhukov/FitnessCenter_Zhukov.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
